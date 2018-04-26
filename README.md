@@ -1,7 +1,7 @@
 # Project: visualization-Ecological-Footprint
  
 
-## Contributors: Fei Liu, Jing Song
+### Contributors: Fei Liu, Jing Song
 
 ## Background and Motivation
 
