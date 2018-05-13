@@ -3,8 +3,8 @@ var figure = {
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:2bb4f7", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:e86928", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         1584773249.50738
                     ], 
@@ -17,8 +17,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:f15dd5", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:344570", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         1497277805.63217
                     ], 
@@ -31,8 +31,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:10f0a6", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:9ab069", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         1658882513.70054
                     ], 
@@ -45,13 +45,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:a0965e", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:d252e1", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         479047205.491158
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -59,8 +59,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:296449", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:3a470b", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         213939156.195721
                     ], 
@@ -73,8 +73,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:41026d", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:a61abc", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         78863799.71189591
                     ], 
@@ -87,13 +87,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1961
+            "name": "1961"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:080d62", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:e9242f", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         1588802783.10745
                     ], 
@@ -106,8 +106,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:c6f49f", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:fc146f", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         1582108637.6479998
                     ], 
@@ -120,8 +120,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:43b0d1", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:b8d760", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         1741693360.43889
                     ], 
@@ -134,13 +134,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:c0d3b5", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:4ae132", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         481800885.246046
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -148,8 +148,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:568a43", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:0ef1f6", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         218804732.816845
                     ], 
@@ -162,8 +162,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:374e86", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:752fa4", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         79383384.52861391
                     ], 
@@ -176,13 +176,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1962
+            "name": "1962"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:407572", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:9fe312", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         1639883198.4021301
                     ], 
@@ -195,8 +195,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:73ba54", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:4bdd63", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         1645859947.78735
                     ], 
@@ -209,8 +209,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:6c8344", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:83ebb4", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         1822108372.3013
                     ], 
@@ -223,13 +223,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:7b7fc0", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:9a4411", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         487393002.111959
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -237,8 +237,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:a73873", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:815f4a", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         229581727.35021
                     ], 
@@ -251,8 +251,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:f54499", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:36edd2", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         86357491.0269128
                     ], 
@@ -265,13 +265,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1963
+            "name": "1963"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:e69457", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:4773b9", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         1692227001.25198
                     ], 
@@ -284,8 +284,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:5d7e60", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:dda431", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         1701760698.6902301
                     ], 
@@ -298,8 +298,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:83610d", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:a40097", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         1850121474.9592
                     ], 
@@ -312,13 +312,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:0be427", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:9884f0", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         508153986.36888
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -326,8 +326,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:00b19f", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:0bf8c4", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         260626396.01172596
                     ], 
@@ -340,8 +340,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:22a0ef", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:064549", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         86977515.87494591
                     ], 
@@ -354,13 +354,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1964
+            "name": "1964"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:68b335", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:8e8561", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         1763350174.1402
                     ], 
@@ -373,8 +373,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:db116b", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:528dd5", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         1764357071.36518
                     ], 
@@ -387,8 +387,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:df1d2b", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:9004d3", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         1966113357.44394
                     ], 
@@ -401,13 +401,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:146212", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:fb8237", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         522294518.059849
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -415,8 +415,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:b713ec", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:450971", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         268695687.368476
                     ], 
@@ -429,8 +429,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:dc0b06", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:55ea13", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         88237149.5982187
                     ], 
@@ -443,13 +443,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1965
+            "name": "1965"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:d265e9", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:1b0507", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         1875606977.1536102
                     ], 
@@ -462,8 +462,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:1289d7", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:151822", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         724795308.018728
                     ], 
@@ -476,8 +476,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:f81b6e", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:a35add", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2054806522.3559399
                     ], 
@@ -490,13 +490,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:324cab", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:84eb86", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         538692370.67867
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -504,8 +504,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:0ce70a", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:cefd58", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         278515265.796559
                     ], 
@@ -518,8 +518,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:452daa", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:4ada14", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         98860191.7014371
                     ], 
@@ -532,13 +532,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1966
+            "name": "1966"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:96a370", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:b20495", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         1941191433.3302698
                     ], 
@@ -551,8 +551,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:1a249a", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:91365e", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         773806176.012425
                     ], 
@@ -565,8 +565,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:48aa4b", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:09ff27", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2120869114.90298
                     ], 
@@ -579,13 +579,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:e7ee6b", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:611a6b", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         565992725.443987
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -593,8 +593,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:2742a2", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:c0514c", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         290701320.683676
                     ], 
@@ -607,8 +607,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:dd62eb", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:a5f748", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         91084743.4416768
                     ], 
@@ -621,13 +621,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1967
+            "name": "1967"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:1a3905", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:e771e0", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2012669557.3011103
                     ], 
@@ -640,8 +640,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:afd75f", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:0c9d50", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         771449189.551888
                     ], 
@@ -654,8 +654,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:8592a1", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:600deb", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2239606811.25027
                     ], 
@@ -668,13 +668,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:f454a8", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:b5086f", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         580356735.470473
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -682,8 +682,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:855ab6", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:e5027a", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         297374957.286408
                     ], 
@@ -696,8 +696,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:7b2c94", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:1cfadb", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         108470656.47190799
                     ], 
@@ -710,13 +710,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1968
+            "name": "1968"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:486982", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:39c49b", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2125653649.32838
                     ], 
@@ -729,8 +729,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:8f6de3", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:e86458", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         774958320.576728
                     ], 
@@ -743,8 +743,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:0a0291", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:7f0eea", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2323105938.80184
                     ], 
@@ -757,13 +757,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:e7e9d4", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:0be406", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         587871217.5397481
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -771,8 +771,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:b432d1", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:220c30", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         319360601.85171497
                     ], 
@@ -785,8 +785,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:5d5602", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:75e9db", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         107960361.010754
                     ], 
@@ -799,13 +799,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1969
+            "name": "1969"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:1438c9", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:209ee0", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2315584589.4208302
                     ], 
@@ -818,8 +818,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:a74b57", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:00f143", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         767416669.810569
                     ], 
@@ -832,8 +832,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:f34654", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:4ce5e3", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2367523077.3632
                     ], 
@@ -846,13 +846,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:461feb", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:1dc870", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         626698131.667706
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -860,8 +860,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:d071a3", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:156de9", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         332879950.191113
                     ], 
@@ -874,8 +874,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:70c53b", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:ade022", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         104996307.548756
                     ], 
@@ -888,13 +888,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1970
+            "name": "1970"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:cabae1", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:8eeb36", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2439897057.4152102
                     ], 
@@ -907,8 +907,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:898c60", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:56b136", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         793220653.776621
                     ], 
@@ -921,8 +921,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:d1363a", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:ef73f6", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2460176471.8069897
                     ], 
@@ -935,13 +935,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:b86ae0", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:f78b78", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         663560017.7900491
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -949,8 +949,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:fd9208", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:335734", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         354572098.59032
                     ], 
@@ -963,8 +963,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:2627fa", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:5194bb", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         108883378.912094
                     ], 
@@ -977,13 +977,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1971
+            "name": "1971"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:ecc3a6", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:53eff8", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2516049922.5686398
                     ], 
@@ -996,8 +996,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:4b6628", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:9a0810", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         804207149.1751571
                     ], 
@@ -1010,8 +1010,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:0f28c4", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:8eda07", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2530550084.09825
                     ], 
@@ -1024,13 +1024,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:ad95f3", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:8b6245", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         677538502.301288
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1038,8 +1038,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:8ff0e3", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:d55d9d", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         351573433.8172
                     ], 
@@ -1052,8 +1052,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:b99d05", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:0f1952", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         101996834.80817801
                     ], 
@@ -1066,13 +1066,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1972
+            "name": "1972"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:60c53f", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:0f5d3b", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2693788896.31785
                     ], 
@@ -1085,8 +1085,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:2db847", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:baf7a4", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         801177854.331011
                     ], 
@@ -1099,8 +1099,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:094456", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:b87f24", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2618349494.67145
                     ], 
@@ -1113,13 +1113,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:9a2c60", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:490026", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         716332495.36865
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1127,8 +1127,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:ec8434", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:f19fe8", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         449854493.06826794
                     ], 
@@ -1141,8 +1141,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:77a3af", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:9f5de7", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         115782649.49601899
                     ], 
@@ -1155,13 +1155,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1973
+            "name": "1973"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:006fa1", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:a7fe2a", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2679524087.71945
                     ], 
@@ -1174,8 +1174,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:cdfc38", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:0ba05d", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2365959568.61211
                     ], 
@@ -1188,8 +1188,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:e5c0bb", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:2fc6cf", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2505512380.06965
                     ], 
@@ -1202,13 +1202,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:ff8255", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:8888a7", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         775791669.101295
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1216,8 +1216,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:8e1f49", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:0d1808", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         476606447.19413096
                     ], 
@@ -1230,8 +1230,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:04b5e0", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:344824", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         137035202.012241
                     ], 
@@ -1244,13 +1244,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1974
+            "name": "1974"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:64d367", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:1d4ea4", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2758198582.55971
                     ], 
@@ -1263,8 +1263,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:d519e1", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:0abff6", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2258516197.3774
                     ], 
@@ -1277,8 +1277,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:dbe3bd", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:cf18be", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2421981792.32257
                     ], 
@@ -1291,13 +1291,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:20cc5c", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:461dbc", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         781324476.924257
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1305,8 +1305,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:f0ca97", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:023d5f", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         508611732.725051
                     ], 
@@ -1319,8 +1319,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:459676", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:052937", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         141733807.665102
                     ], 
@@ -1333,13 +1333,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1975
+            "name": "1975"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:b9fca2", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:e37f1b", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2861586001.42096
                     ], 
@@ -1352,8 +1352,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:20de8a", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:7f59da", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         783349997.7408121
                     ], 
@@ -1366,8 +1366,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:ab10a9", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:7b5077", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2586679901.0151896
                     ], 
@@ -1380,13 +1380,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:1ac883", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:c6ef4b", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         806140193.254943
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1394,8 +1394,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:dca1d4", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:6ac641", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         517890731.319981
                     ], 
@@ -1408,8 +1408,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:00b793", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:e5361c", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         130214729.485249
                     ], 
@@ -1422,13 +1422,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1976
+            "name": "1976"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:654ada", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:29333f", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         2958668259.43297
                     ], 
@@ -1441,8 +1441,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:31f30f", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:388dd4", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2375537908.43085
                     ], 
@@ -1455,8 +1455,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:c55d9f", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:b0439c", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2681747647.98295
                     ], 
@@ -1469,13 +1469,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:640d51", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:e274a9", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         836435078.755585
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1483,8 +1483,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:99ac2b", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:23a75d", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         531911486.5994
                     ], 
@@ -1497,8 +1497,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:d74b63", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:193a59", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         119290160.33769199
                     ], 
@@ -1511,13 +1511,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1977
+            "name": "1977"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:fb325b", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:05cba8", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3123208995.82558
                     ], 
@@ -1530,8 +1530,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:9758aa", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:e77c2e", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         822658089.917868
                     ], 
@@ -1544,8 +1544,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:c8ae27", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:d737f1", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2683020087.57327
                     ], 
@@ -1558,13 +1558,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:617fc0", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:7daa2d", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         868636431.98297
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1572,8 +1572,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:462bc3", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:a4c9fd", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         548839944.215175
                     ], 
@@ -1586,8 +1586,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:81c5fa", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:cb91b0", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         130135276.95076202
                     ], 
@@ -1600,13 +1600,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1978
+            "name": "1978"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:3a8ae4", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:8348b4", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3250380963.97513
                     ], 
@@ -1619,8 +1619,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:85fffe", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:5a4017", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         819492878.727269
                     ], 
@@ -1633,8 +1633,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:794fe1", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:715135", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2733682234.50199
                     ], 
@@ -1647,13 +1647,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:974764", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:4fb223", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         895187482.836311
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1661,8 +1661,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:0a83e8", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:a7fe86", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         561923973.922662
                     ], 
@@ -1675,8 +1675,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:c762b0", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:06ab84", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         126407352.425148
                     ], 
@@ -1689,13 +1689,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1979
+            "name": "1979"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:307382", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:cc22fe", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3238668524.36878
                     ], 
@@ -1708,8 +1708,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:e49dfc", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:db5556", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         832373255.606716
                     ], 
@@ -1722,8 +1722,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:3b50c6", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:6897d6", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2503161288.18368
                     ], 
@@ -1736,13 +1736,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:103fa4", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:cfd654", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         951478389.508365
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1750,8 +1750,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:cb551b", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:bff100", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         580122686.623687
                     ], 
@@ -1764,8 +1764,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:233dde", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:2106ed", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         117413647.29724099
                     ], 
@@ -1778,13 +1778,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1980
+            "name": "1980"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:c466c5", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:773131", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3262022517.0785103
                     ], 
@@ -1797,8 +1797,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:54b758", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:1fae6d", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2291011112.64595
                     ], 
@@ -1811,8 +1811,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:c17fcb", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:65213e", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2493119539.86165
                     ], 
@@ -1825,13 +1825,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:63a48a", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:3b5578", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         947018368.9814401
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1839,8 +1839,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:f0d1b0", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:fb3929", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         612232847.866819
                     ], 
@@ -1853,8 +1853,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:094857", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:1c8a37", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         128611034.277002
                     ], 
@@ -1867,13 +1867,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1981
+            "name": "1981"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:e4c28f", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:5297ea", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3349695533.43833
                     ], 
@@ -1886,8 +1886,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:bc8fa1", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:4b7e50", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         850733958.160866
                     ], 
@@ -1900,8 +1900,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:b14d09", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:8864b3", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2393653791.53448
                     ], 
@@ -1914,13 +1914,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:1924f3", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:29899b", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         940445149.9069461
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -1928,8 +1928,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:37ead8", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:3a15b6", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         618647029.5715929
                     ], 
@@ -1942,8 +1942,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:42307d", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:170ff7", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         116573378.352276
                     ], 
@@ -1956,13 +1956,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1982
+            "name": "1982"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:2ebf59", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:738a8c", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3471843821.8450603
                     ], 
@@ -1975,8 +1975,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:7f6035", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:e8596c", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2206861085.4861603
                     ], 
@@ -1989,8 +1989,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:b2e3d8", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:31b801", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2310130917.70052
                     ], 
@@ -2003,13 +2003,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:b21829", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:0343f1", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         914125852.8343039
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2017,8 +2017,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:2ca72c", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:26d5de", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         617859052.183312
                     ], 
@@ -2031,8 +2031,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:ecf3dc", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:b671ec", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         129725740.48423898
                     ], 
@@ -2045,13 +2045,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1983
+            "name": "1983"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:96baf4", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:e1281a", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3639241806.2755103
                     ], 
@@ -2064,8 +2064,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:3fa02d", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:051b2f", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         895894290.3897381
                     ], 
@@ -2078,8 +2078,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:d47fce", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:1a4fa2", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2530551524.48019
                     ], 
@@ -2092,13 +2092,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:3f75cf", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:c52b5c", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         947516852.193036
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2106,8 +2106,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:a0560c", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:c25a89", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         623923291.081767
                     ], 
@@ -2120,8 +2120,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:db2d87", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:f57db2", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         127745508.426175
                     ], 
@@ -2134,13 +2134,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1984
+            "name": "1984"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:c57bb4", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:037e58", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3659031287.4140205
                     ], 
@@ -2153,8 +2153,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:1203de", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:839052", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2294152287.2445803
                     ], 
@@ -2167,8 +2167,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:af0d7d", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:e83876", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2630102120.89822
                     ], 
@@ -2181,13 +2181,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:6bd46c", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:14f042", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         954298345.2855619
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2195,8 +2195,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:f696a2", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:9b8843", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         655437989.673195
                     ], 
@@ -2209,8 +2209,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:4a90d1", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:7ff35c", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         119773143.09967
                     ], 
@@ -2223,13 +2223,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1985
+            "name": "1985"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:3b2d76", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:0b28db", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3786034314.10536
                     ], 
@@ -2242,8 +2242,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:3a4bda", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:d57ea8", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         877897673.363342
                     ], 
@@ -2256,8 +2256,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:9e3e2e", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:c42808", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2640353765.23858
                     ], 
@@ -2270,13 +2270,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:de6304", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:c8e0b3", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         994447389.8746539
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2284,8 +2284,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:095ed8", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:62cd87", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         663220111.4814299
                     ], 
@@ -2298,8 +2298,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:fc9d3b", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:7d6a29", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         115022040.81902601
                     ], 
@@ -2312,13 +2312,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1986
+            "name": "1986"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:a1f546", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:9f3060", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         3961107499.81141
                     ], 
@@ -2331,8 +2331,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:6d4a41", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:676462", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2411534624.3206897
                     ], 
@@ -2345,8 +2345,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:0c930c", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:2bd2cf", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2662182355.0464897
                     ], 
@@ -2359,13 +2359,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:9bf359", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:fed878", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1016207552.76245
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2373,8 +2373,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:1e4a75", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:16f94f", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         676214298.159108
                     ], 
@@ -2387,8 +2387,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:712369", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:b4cec0", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         108375962.991188
                     ], 
@@ -2401,13 +2401,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1987
+            "name": "1987"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:b77a60", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:9fcdbe", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         4112259565.17096
                     ], 
@@ -2420,8 +2420,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:fcc2fa", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:6ef01c", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2455557918.25957
                     ], 
@@ -2434,8 +2434,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:007fa1", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:e76551", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2641073802.49018
                     ], 
@@ -2448,13 +2448,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:844cc5", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:daa1b7", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1028838443.0596801
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2462,8 +2462,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:d748bf", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:c8690e", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         699014843.351917
                     ], 
@@ -2476,8 +2476,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:9b6755", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:4f936e", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         120210753.73894599
                     ], 
@@ -2490,13 +2490,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1988
+            "name": "1988"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:7c8e40", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:e9b4c0", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         4278947946.28716
                     ], 
@@ -2509,8 +2509,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:fd4d67", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:869d0f", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2480393128.6966896
                     ], 
@@ -2523,8 +2523,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:d7e275", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:692d52", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2755241163.0798697
                     ], 
@@ -2537,13 +2537,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:e20297", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:c1e44c", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1058008344.1653199
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2551,8 +2551,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:cd42f4", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:c30fe5", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         720390596.8765861
                     ], 
@@ -2565,8 +2565,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:c6958a", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:899370", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         137123437.424072
                     ], 
@@ -2579,13 +2579,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1989
+            "name": "1989"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:7367b6", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:cbb257", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         4458190290.49957
                     ], 
@@ -2598,8 +2598,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:4920f5", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:268d45", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         896976790.800283
                     ], 
@@ -2612,8 +2612,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:1b6d6b", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:247386", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2750353444.2804103
                     ], 
@@ -2626,13 +2626,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:cb574f", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:623cca", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1059494573.48414
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2640,8 +2640,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:227dee", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:b79bab", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         724617949.751822
                     ], 
@@ -2654,8 +2654,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:881964", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:ba8ce7", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         139210417.132032
                     ], 
@@ -2668,13 +2668,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1990
+            "name": "1990"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:dd217f", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:141398", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         4582547085.916921
                     ], 
@@ -2687,8 +2687,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:ea2dd2", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:6e1819", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2437687661.43228
                     ], 
@@ -2701,8 +2701,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:63cbdc", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:aaf751", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2653018921.3144603
                     ], 
@@ -2715,13 +2715,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:361307", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:6012d0", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1091760505.74906
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2729,8 +2729,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:55afc2", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:86130c", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         746900643.936542
                     ], 
@@ -2743,8 +2743,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:417bfd", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:388f70", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         131940384.55235301
                     ], 
@@ -2757,13 +2757,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1991
+            "name": "1991"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:506875", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:9a33d5", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         4990746026.870171
                     ], 
@@ -2776,8 +2776,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:686f12", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:d43940", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2000954024.48831
                     ], 
@@ -2790,8 +2790,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:388c6a", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:edef94", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2768773341.21836
                     ], 
@@ -2804,13 +2804,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:5f3f71", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:89e898", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1124416742.3640401
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2818,8 +2818,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:2e1dd8", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:42a637", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         772797974.3805361
                     ], 
@@ -2832,8 +2832,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:df77af", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:8fa442", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         130929480.95479399
                     ], 
@@ -2846,13 +2846,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1992
+            "name": "1992"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:1b5a28", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:93e219", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         5144929273.46528
                     ], 
@@ -2865,8 +2865,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:152d08", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:4f6dba", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3441696039.3900104
                     ], 
@@ -2879,8 +2879,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:393704", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:25dfb0", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2769268922.20807
                     ], 
@@ -2893,13 +2893,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:6eebe6", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:2761c7", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1143980017.3259
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2907,8 +2907,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:fa60c8", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:00e096", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         841333163.092426
                     ], 
@@ -2921,8 +2921,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:a4a885", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:344fe5", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         134502333.193465
                     ], 
@@ -2935,13 +2935,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1993
+            "name": "1993"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:91d0fe", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:f078df", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         5322277833.62004
                     ], 
@@ -2954,8 +2954,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:c6122f", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:18fcdc", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3342224372.68375
                     ], 
@@ -2968,8 +2968,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:eef712", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:0993bb", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2919609391.36762
                     ], 
@@ -2982,13 +2982,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:d7aca5", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:a878f4", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1196010280.4575698
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -2996,8 +2996,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:863282", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:70e028", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         861155478.5584611
                     ], 
@@ -3010,8 +3010,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:2ec1f1", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:f50457", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         119559946.015134
                     ], 
@@ -3024,13 +3024,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1994
+            "name": "1994"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:c1ad7f", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:93249a", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         5578831886.530661
                     ], 
@@ -3043,8 +3043,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:854704", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:e61cce", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3574401157.8574204
                     ], 
@@ -3057,8 +3057,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:ca9775", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:c00cf1", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2822103566.23208
                     ], 
@@ -3071,13 +3071,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:018ba5", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:8809bb", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1220442580.1369
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3085,8 +3085,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:2ed640", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:20a664", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         883040017.6325971
                     ], 
@@ -3099,8 +3099,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:d783c0", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:914c56", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         147585938.496728
                     ], 
@@ -3113,13 +3113,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1995
+            "name": "1995"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:a92581", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:eb811c", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         5729891202.858279
                     ], 
@@ -3132,8 +3132,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:ddbdc7", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:4271bf", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3527700327.79559
                     ], 
@@ -3146,8 +3146,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:0ed19d", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:f69939", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2970129508.0061197
                     ], 
@@ -3160,13 +3160,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:2a0b75", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:f58d4a", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1287249107.9086199
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3174,8 +3174,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:df3c22", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:00a98e", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         921425673.619632
                     ], 
@@ -3188,8 +3188,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:56ee2c", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:836c4c", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         147408237.00676998
                     ], 
@@ -3202,13 +3202,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1996
+            "name": "1996"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:fda490", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:306c5e", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         5807234905.46957
                     ], 
@@ -3221,8 +3221,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:b2e11c", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:0a948a", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3567429651.98841
                     ], 
@@ -3235,8 +3235,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:6e8597", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:e020fe", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3074641511.35006
                     ], 
@@ -3249,13 +3249,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:0d2709", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:dee081", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1289822547.46832
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3263,8 +3263,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:5a7fd5", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:45e33c", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         928293459.636933
                     ], 
@@ -3277,8 +3277,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:b23d06", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:294390", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         136136952.20009598
                     ], 
@@ -3291,13 +3291,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1997
+            "name": "1997"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:1a8d5e", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:125383", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         5789655187.99743
                     ], 
@@ -3310,8 +3310,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:138f97", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:8a1866", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2135803249.22815
                     ], 
@@ -3324,8 +3324,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:2a08e0", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:f1367f", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3118073069.9948397
                     ], 
@@ -3338,13 +3338,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:da4eaa", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:a2568c", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1323373648.07938
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3352,8 +3352,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:d4e9f2", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:f5ea24", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         970598930.965634
                     ], 
@@ -3366,8 +3366,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:14fb3e", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:b2a361", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         156303896.948156
                     ], 
@@ -3380,13 +3380,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1998
+            "name": "1998"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:3a4382", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:26ca69", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         5910358480.1221
                     ], 
@@ -3399,8 +3399,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:1b23b5", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:d9802f", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3462852551.41699
                     ], 
@@ -3413,8 +3413,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:6cc693", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:638dad", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3109394732.65752
                     ], 
@@ -3427,13 +3427,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:7e2a38", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:354c38", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1417455500.76953
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3441,8 +3441,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:924989", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:f1613f", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         974040778.019154
                     ], 
@@ -3455,8 +3455,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:06120b", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:cb06f6", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         154350855.476666
                     ], 
@@ -3469,13 +3469,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 1999
+            "name": "1999"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:61db27", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:e649ad", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         6067088988.39788
                     ], 
@@ -3488,8 +3488,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:3b1b05", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:18d8ce", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3557590417.73634
                     ], 
@@ -3502,8 +3502,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:988510", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:5854f9", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3178095630.1338
                     ], 
@@ -3516,13 +3516,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:7a567b", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:5b183e", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1354572060.88713
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3530,8 +3530,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:4330b5", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:7cc4c3", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         982227013.357443
                     ], 
@@ -3544,8 +3544,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:f8fff1", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:7c2457", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         154483182.481087
                     ], 
@@ -3558,13 +3558,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2000
+            "name": "2000"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:2db03c", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:a9f6e7", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         6153062893.4529
                     ], 
@@ -3577,8 +3577,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:287876", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:aa4401", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3650082855.6773796
                     ], 
@@ -3591,8 +3591,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:43104a", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:9fd007", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3137628441.73107
                     ], 
@@ -3605,13 +3605,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:6e88d8", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:631c3e", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1388332672.98218
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3619,8 +3619,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:3a6b81", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:53242f", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1031481287.73006
                     ], 
@@ -3633,8 +3633,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:376f8e", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:bbca59", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         158439885.582824
                     ], 
@@ -3647,13 +3647,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2001
+            "name": "2001"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:bc4827", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:32ad8e", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         6365035270.610311
                     ], 
@@ -3666,8 +3666,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:bf2a12", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:447484", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2192064786.12497
                     ], 
@@ -3680,8 +3680,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:ac7a1f", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:d3cac2", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3098489816.55796
                     ], 
@@ -3694,13 +3694,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:582e55", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:b3c568", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1374033040.2493699
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3708,8 +3708,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:dd8adf", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:0bcdc9", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1058893007.4603
                     ], 
@@ -3722,8 +3722,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:cae7d7", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:94b403", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         169040491.711728
                     ], 
@@ -3736,13 +3736,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2002
+            "name": "2002"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:5304b0", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:cf9df6", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         6705351915.03218
                     ], 
@@ -3755,8 +3755,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:240d5a", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:30da2c", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2117058870.6041398
                     ], 
@@ -3769,8 +3769,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:75e58f", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:eec095", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3183039820.35573
                     ], 
@@ -3783,13 +3783,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:9a281b", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:b37782", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1365053039.9635901
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3797,8 +3797,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:87204d", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:9be38f", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1107349437.7732801
                     ], 
@@ -3811,8 +3811,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:94a38a", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:847760", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         166992679.766381
                     ], 
@@ -3825,13 +3825,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2003
+            "name": "2003"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:ffbae8", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:ccb6be", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         7186756982.96653
                     ], 
@@ -3844,8 +3844,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:9ffee5", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:beff32", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3784663558.51896
                     ], 
@@ -3858,8 +3858,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:47f66b", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:87efb7", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3342081965.68807
                     ], 
@@ -3872,13 +3872,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:1761e2", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:b96e23", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1380689550.59348
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3886,8 +3886,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:e1c331", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:aaddd8", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1152562012.7074199
                     ], 
@@ -3900,8 +3900,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:45c9fe", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:28783a", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         182843487.758354
                     ], 
@@ -3914,13 +3914,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2004
+            "name": "2004"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:5c2356", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:d0981a", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         7529012587.535491
                     ], 
@@ -3933,8 +3933,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:f13cc4", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:c0478c", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2170678595.6783104
                     ], 
@@ -3947,8 +3947,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:6882f6", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:ef8821", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3378989365.92598
                     ], 
@@ -3961,13 +3961,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:afb9ab", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:38112a", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1347697538.64811
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -3975,8 +3975,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:f6d572", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:df5eee", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1184394418.22986
                     ], 
@@ -3989,8 +3989,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:c5a61c", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:144e22", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         185902577.000601
                     ], 
@@ -4003,13 +4003,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2005
+            "name": "2005"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:fbe3c2", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:1d73cb", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         7879678817.101891
                     ], 
@@ -4022,8 +4022,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:f264c3", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:72c638", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3839051554.3049
                     ], 
@@ -4036,8 +4036,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:a9e625", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:9667ab", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3305023536.42592
                     ], 
@@ -4050,13 +4050,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:f0dda1", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:c07a43", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1419449318.16675
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -4064,8 +4064,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:52e553", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:625b69", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1235558720.8492699
                     ], 
@@ -4078,8 +4078,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:79442a", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:5182aa", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         192138210.928485
                     ], 
@@ -4092,13 +4092,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2006
+            "name": "2006"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:f2cdfd", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:7adbdb", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         8293844336.51332
                     ], 
@@ -4111,8 +4111,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:1647cc", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:aad747", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2145232901.29745
                     ], 
@@ -4125,8 +4125,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:2a0aa5", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:0a9819", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3279900624.84386
                     ], 
@@ -4139,13 +4139,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:7e231c", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:43635b", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1481138220.86642
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -4153,8 +4153,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:47dc77", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:3965bc", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1242521308.45312
                     ], 
@@ -4167,8 +4167,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:f2cd56", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:44c35a", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         183922627.343074
                     ], 
@@ -4181,13 +4181,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2007
+            "name": "2007"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:831c56", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:3bc754", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         8493452194.362659
                     ], 
@@ -4200,8 +4200,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:78c4c5", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:50e860", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2251327614.47551
                     ], 
@@ -4214,8 +4214,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:56bf8f", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:80b3b5", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3142508541.55764
                     ], 
@@ -4228,13 +4228,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:fab4de", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:9f1faa", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1570210276.6629698
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -4242,8 +4242,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:028e73", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:345c1a", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1290432850.72434
                     ], 
@@ -4256,8 +4256,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:1dcb59", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:31d735", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         194168009.25352702
                     ], 
@@ -4270,13 +4270,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2008
+            "name": "2008"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:d9e5c8", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:8af190", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         8847667083.093641
                     ], 
@@ -4289,8 +4289,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:bd53a5", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:83d6e7", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2215915261.08303
                     ], 
@@ -4303,8 +4303,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:f50db2", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:e8ca29", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2903396138.8860397
                     ], 
@@ -4317,13 +4317,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:fbb5f7", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:410f68", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1488468228.9477198
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -4331,8 +4331,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:bb2f96", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:963871", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1300015388.41026
                     ], 
@@ -4345,8 +4345,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:804d0a", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:15afbb", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         185947461.369661
                     ], 
@@ -4359,13 +4359,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2009
+            "name": "2009"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:8a793f", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:0ff130", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         9312878051.95123
                     ], 
@@ -4378,8 +4378,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:6ded87", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:c7bac6", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2159268025.45756
                     ], 
@@ -4392,8 +4392,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:f7e6dc", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:0d58e7", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         3043767313.16092
                     ], 
@@ -4406,13 +4406,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:5514a0", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:760204", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1625599223.5086699
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -4420,8 +4420,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:bea8f8", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:4d43c1", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1347582439.99439
                     ], 
@@ -4434,8 +4434,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:bf150e", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:69434a", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         187017710.508548
                     ], 
@@ -4448,13 +4448,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2010
+            "name": "2010"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:9b5184", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:db83b1", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         9686784865.65439
                     ], 
@@ -4467,8 +4467,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:3cd316", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:7a1481", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         2198123963.0543
                     ], 
@@ -4481,8 +4481,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:3a8e1d", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:a17b9d", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2958196152.2169104
                     ], 
@@ -4495,13 +4495,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:ff31f7", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:38f9fd", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1616608154.3259
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -4509,8 +4509,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:5ba292", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:618911", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1343725265.9002
                     ], 
@@ -4523,8 +4523,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:7b396c", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:aa62a5", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         201149987.447781
                     ], 
@@ -4537,13 +4537,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2011
+            "name": "2011"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:1a7e8f", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:afe26e", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         9834182705.2005
                     ], 
@@ -4556,8 +4556,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:6798f8", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:826b45", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3465883102.2759
                     ], 
@@ -4570,8 +4570,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:c10f72", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:489201", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2877613615.74138
                     ], 
@@ -4584,13 +4584,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:6492ea", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:09136f", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1636835707.1011698
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -4598,8 +4598,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:c203bb", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:da332d", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1385451878.6094599
                     ], 
@@ -4612,8 +4612,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:503c7b", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:307446", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         186090103.842318
                     ], 
@@ -4626,13 +4626,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2012
+            "name": "2012"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:bf6696", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:aed651", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         10078121516.0987
                     ], 
@@ -4645,8 +4645,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:0453f0", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:401194", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3471385046.6557803
                     ], 
@@ -4659,8 +4659,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:dc5074", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:1d76c4", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2966379326.47963
                     ], 
@@ -4673,13 +4673,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:9950b2", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:bbcdd2", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1633180616.06609
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -4687,8 +4687,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:d60c01", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:9d9cba", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1430588599.30723
                     ], 
@@ -4701,8 +4701,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:0d9d41", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:08f127", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         174234924.550822
                     ], 
@@ -4715,13 +4715,13 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2013
+            "name": "2013"
         }, 
         {
             "data": [
                 {
-                    "ysrc": "fliu23:291:16beb3", 
-                    "xsrc": "fliu23:291:731e1d", 
+                    "ysrc": "fliu23:321:029a1e", 
+                    "xsrc": "fliu23:321:9c6043", 
                     "y": [
                         10187657811.7691
                     ], 
@@ -4734,8 +4734,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:292:b3a071", 
-                    "xsrc": "fliu23:292:cb07e3", 
+                    "ysrc": "fliu23:322:853f18", 
+                    "xsrc": "fliu23:322:32d88a", 
                     "y": [
                         3433764327.26532
                     ], 
@@ -4748,8 +4748,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:293:974cfa", 
-                    "xsrc": "fliu23:293:46eaae", 
+                    "ysrc": "fliu23:323:46e843", 
+                    "xsrc": "fliu23:323:3f3c32", 
                     "y": [
                         2958997484.18991
                     ], 
@@ -4762,13 +4762,13 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:294:d9b533", 
-                    "xsrc": "fliu23:294:43a584", 
+                    "ysrc": "fliu23:328:31c01d", 
+                    "xsrc": "fliu23:328:151105", 
                     "y": [
                         1638564904.27228
                     ], 
                     "x": [
-                        "Latin America/Carribbean"
+                        "Latin America"
                     ], 
                     "line": {
                         "color": "rgb(40, 200, 59)"
@@ -4776,8 +4776,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:295:51819c", 
-                    "xsrc": "fliu23:295:087336", 
+                    "ysrc": "fliu23:329:1fcaf2", 
+                    "xsrc": "fliu23:329:ff6d7e", 
                     "y": [
                         1463512356.06054
                     ], 
@@ -4790,8 +4790,8 @@ var figure = {
                     "type": "bar"
                 }, 
                 {
-                    "ysrc": "fliu23:296:a24a5e", 
-                    "xsrc": "fliu23:296:1dc91b", 
+                    "ysrc": "fliu23:330:0480c8", 
+                    "xsrc": "fliu23:330:86227f", 
                     "y": [
                         166112601.418434
                     ], 
@@ -4804,7 +4804,7 @@ var figure = {
                     "type": "bar"
                 }
             ], 
-            "name": 2014
+            "name": "2014"
         }
     ], 
     "layout": {
@@ -4821,6 +4821,7 @@ var figure = {
             "mirror": true, 
             "zeroline": false, 
             "showline": true, 
+            "type": "linear", 
             "autorange": false
         }, 
         "updatemenus": [
@@ -4850,7 +4851,6 @@ var figure = {
                                 "transition": {
                                     "duration": 0
                                 }, 
-                                "fromcurrent": true, 
                                 "mode": "immediate"
                             }
                         ], 
@@ -4867,6 +4867,7 @@ var figure = {
                 "type": "buttons"
             }
         ], 
+        "breakpoints": [], 
         "sliders": [
             {
                 "yanchor": "top", 
@@ -5929,14 +5930,15 @@ var figure = {
             "zeroline": false, 
             "showline": true, 
             "nticks": 27, 
+            "type": "category", 
             "autorange": false
         }
     }, 
     "data": [
         {
-            "name": "Asian", 
-            "ysrc": "fliu23:291:2bb4f7", 
-            "xsrc": "fliu23:291:731e1d", 
+            "uid": "bed2ff", 
+            "ysrc": "fliu23:321:e86928", 
+            "xsrc": "fliu23:321:9c6043", 
             "width": 0.5, 
             "y": [
                 1584773249.50738
@@ -5947,12 +5949,13 @@ var figure = {
             "line": {
                 "color": "rgb(200, 90, 59)"
             }, 
-            "type": "bar"
+            "type": "bar", 
+            "name": "Asian"
         }, 
         {
-            "name": "Europe", 
-            "ysrc": "fliu23:292:f15dd5", 
-            "xsrc": "fliu23:292:cb07e3", 
+            "uid": "298018", 
+            "ysrc": "fliu23:322:344570", 
+            "xsrc": "fliu23:322:32d88a", 
             "width": 0.5, 
             "y": [
                 1497277805.63217
@@ -5963,12 +5966,13 @@ var figure = {
             "line": {
                 "color": "rgb(114, 100, 59)"
             }, 
-            "type": "bar"
+            "type": "bar", 
+            "name": "Europe"
         }, 
         {
-            "name": "North America", 
-            "ysrc": "fliu23:293:10f0a6", 
-            "xsrc": "fliu23:293:46eaae", 
+            "uid": "2105d0", 
+            "ysrc": "fliu23:323:9ab069", 
+            "xsrc": "fliu23:323:3f3c32", 
             "width": 0.5, 
             "y": [
                 1658882513.70054
@@ -5979,28 +5983,30 @@ var figure = {
             "line": {
                 "color": "rgb(114, 186, 200)"
             }, 
-            "type": "bar"
+            "type": "bar", 
+            "name": "North America"
         }, 
         {
-            "name": "Latin America/carribbean", 
-            "ysrc": "fliu23:294:a0965e", 
-            "xsrc": "fliu23:294:43a584", 
+            "uid": "07f557", 
+            "ysrc": "fliu23:328:d252e1", 
+            "xsrc": "fliu23:328:151105", 
             "width": 0.5, 
             "y": [
                 479047205.491158
             ], 
             "x": [
-                "Latin America/Carribbean"
+                "Latin America"
             ], 
             "line": {
                 "color": "rgb(40, 200, 59)"
             }, 
-            "type": "bar"
+            "type": "bar", 
+            "name": "Latin America"
         }, 
         {
-            "name": "Africa", 
-            "ysrc": "fliu23:295:296449", 
-            "xsrc": "fliu23:295:087336", 
+            "uid": "305ddb", 
+            "ysrc": "fliu23:329:3a470b", 
+            "xsrc": "fliu23:329:ff6d7e", 
             "width": 0.5, 
             "y": [
                 213939156.195721
@@ -6011,12 +6017,13 @@ var figure = {
             "line": {
                 "color": "rgb(70, 186, 30)"
             }, 
-            "type": "bar"
+            "type": "bar", 
+            "name": "Africa"
         }, 
         {
-            "name": "Oceania", 
-            "ysrc": "fliu23:296:41026d", 
-            "xsrc": "fliu23:296:1dc91b", 
+            "uid": "05f75a", 
+            "ysrc": "fliu23:330:a61abc", 
+            "xsrc": "fliu23:330:86227f", 
             "width": 0.5, 
             "y": [
                 78863799.71189591
@@ -6027,7 +6034,8 @@ var figure = {
             "line": {
                 "color": "rgb(114, 186, 59)"
             }, 
-            "type": "bar"
+            "type": "bar", 
+            "name": "Oceania"
         }
     ]
 }
